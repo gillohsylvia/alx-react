@@ -1,4 +1,5 @@
-me": "task_0",
+ {
+  "name": "task_0",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
